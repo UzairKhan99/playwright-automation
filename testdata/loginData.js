@@ -1,0 +1,9 @@
+
+{
+    "validUser":[
+        {
+            "username": "tomsmith",
+            "password": "SuperSecretPassword!"
+        }
+    ]
+}
